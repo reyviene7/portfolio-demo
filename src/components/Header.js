@@ -14,7 +14,7 @@ const Header = () => {
         >
             <Container fluid="md">
                 <Navbar.Brand 
-                href="/Rey" 
+                href="/portfolio-demo" 
                 style={{fontSize:"26px", 
                 borderRight:"2px solid grey",
                 padding:"0 10px"}}
